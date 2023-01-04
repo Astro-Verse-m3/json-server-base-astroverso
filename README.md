@@ -17,4 +17,4 @@ Para importar o JSON no Insomnia é só clicar o link acima, baixar o arquivo, i
 ![insomia](https://user-images.githubusercontent.com/86025015/199861317-f577c1af-de0c-4166-97a3-dca6fd01f635.gif)
 
 
-🔗 Se preferir, pode usar outro aplicativo da sua escolha, e usar nossa url base da API que é: https://astroverso-json-api.herokuapp.com/
+🔗 Se preferir, pode usar outro aplicativo da sua escolha, e usar nossa url base da API que é: https://astroverso-json-api.onrender.com/
